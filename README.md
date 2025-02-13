@@ -197,7 +197,7 @@ Implementation of on-premise Active Directory within Azure Virtual Machines
   Open PowerShell_ise as an administrator.
 </p> 
 <p>  
-  Create a new File and paste the contents of this script (https://github.com/) into it:
+  Create a new File and paste the contents of this script (https://github.com/TheTJIdowu/Configuring-Active-Directory/blob/main/adscript.ps1) into it:
 </p>
 <p>
   <img src="https://i.imgur.com/0i8uApf.png" height="75%" width="100%" alt="create users script"/>
